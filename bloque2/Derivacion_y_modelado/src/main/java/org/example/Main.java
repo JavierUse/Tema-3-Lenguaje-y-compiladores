@@ -72,7 +72,7 @@ public class Main {
 
     // =================================================================================
     // 3) GENERADOR DE FIGURAS Y DERIVACIONES FORMALES
-    //    Aquí uso exactamente las cadenas que pediste.
+   
     // =================================================================================
     static class GrammarFigures {
 
@@ -255,7 +255,7 @@ public class Main {
     }
 
     // =================================================================================
-    // 5) INTERFAZ GRÁFICA DE USUARIO (GUI) - SIMPLIFICADA
+    // 5) INTERFAZ GRÁFICA DE USUARIO (GUI) 
     // =================================================================================
     private JFrame frame;
     private JComboBox<GrammarFigures.Figura> comboFiguras;
